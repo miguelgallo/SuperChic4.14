@@ -1,0 +1,4 @@
+LHAPDF 6.2.3 loading /afs/cern.ch/user/m/malvesga/Generator/superchic4.14/LHAPDFstuff/MSHT20lo_as130/MSHT20lo_as130_0000.dat
+MSHT20lo_as130 PDF set, member #0, version 4
+LHAPDF 6.2.3 loading /afs/cern.ch/user/m/malvesga/Generator/superchic4.14/LHAPDFstuff/SF_MSHT20qed_nnlo/SF_MSHT20qed_nnlo_0000.dat
+SF_MSHT20qed_nnlo PDF set, member #0, version 1

@@ -1,0 +1,73 @@
+000 (8414414.005.000) 08/08 02:15:07 Job submitted from host: <137.138.156.150:9618?addrs=137.138.156.150-9618+[2001-1458-d00-14--9a]-9618&alias=bigbird13.cern.ch&noUDP&sock=schedd_6524_7ff5>
+...
+040 (8414414.005.000) 08/08 02:16:09 Started transferring input files
+	Transferring to host: <128.142.137.135:9618?addrs=128.142.137.135-9618+[2001-1458-301-5e--100-7b]-9618&alias=b7g19p9195.cern.ch&noUDP&sock=slot1_2_3148_ccf9_1144>
+...
+040 (8414414.005.000) 08/08 02:16:09 Finished transferring input files
+...
+001 (8414414.005.000) 08/08 02:16:09 Job executing on host: <128.142.137.135:9618?addrs=128.142.137.135-9618+[2001-1458-301-5e--100-7b]-9618&alias=b7g19p9195.cern.ch&noUDP&sock=startd_2817_ce61>
+...
+006 (8414414.005.000) 08/08 02:16:18 Image size of job updated: 7437992
+	7  -  MemoryUsage of job (MB)
+	6636  -  ResidentSetSize of job (KB)
+...
+006 (8414414.005.000) 08/08 02:26:20 Image size of job updated: 7437992
+	57  -  MemoryUsage of job (MB)
+	57816  -  ResidentSetSize of job (KB)
+...
+006 (8414414.005.000) 08/08 02:46:22 Image size of job updated: 7437992
+	59  -  MemoryUsage of job (MB)
+	59844  -  ResidentSetSize of job (KB)
+...
+006 (8414414.005.000) 08/08 05:01:11 Image size of job updated: 7437992
+	66  -  MemoryUsage of job (MB)
+	67036  -  ResidentSetSize of job (KB)
+...
+022 (8414414.005.000) 08/10 15:59:57 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_2@b7g19p9195.cern.ch <128.142.137.135:9618?addrs=128.142.137.135-9618+[2001-1458-301-5e--100-7b]-9618&alias=b7g19p9195.cern.ch&noUDP&sock=startd_2817_ce61>
+...
+024 (8414414.005.000) 08/10 17:29:57 Job reconnection failed
+    Job disconnected too long: JobLeaseDuration (5400 seconds) expired
+    Can not reconnect to slot1_2@b7g19p9195.cern.ch, rescheduling job
+...
+040 (8414414.005.000) 08/10 17:36:18 Started transferring input files
+	Transferring to host: <188.184.163.120:9618?addrs=188.184.163.120-9618+[2001-1458-301-4d--100-72]-9618&alias=b7s12p9880.cern.ch&noUDP&sock=slot1_3_43684_1469_1507>
+...
+040 (8414414.005.000) 08/10 17:36:18 Finished transferring input files
+...
+001 (8414414.005.000) 08/10 17:36:18 Job executing on host: <188.184.163.120:9618?addrs=188.184.163.120-9618+[2001-1458-301-4d--100-72]-9618&alias=b7s12p9880.cern.ch&noUDP&sock=startd_43646_1aaa>
+...
+022 (8414414.005.000) 08/11 03:35:10 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_3@b7s12p9880.cern.ch <188.184.163.120:9618?addrs=188.184.163.120-9618+[2001-1458-301-4d--100-72]-9618&alias=b7s12p9880.cern.ch&noUDP&sock=startd_43646_1aaa>
+...
+024 (8414414.005.000) 08/11 03:35:10 Job reconnection failed
+    Job disconnected too long: JobLeaseDuration (5400 seconds) expired
+    Can not reconnect to slot1_3@b7s12p9880.cern.ch, rescheduling job
+...
+040 (8414414.005.000) 08/11 03:39:00 Started transferring input files
+	Transferring to host: <128.142.248.195:9618?addrs=128.142.248.195-9618+[2001-1458-301-73--100-c2]-9618&alias=b7g23p0315.cern.ch&noUDP&sock=slot1_3_66703_0c32_27259>
+...
+040 (8414414.005.000) 08/11 03:39:00 Finished transferring input files
+...
+001 (8414414.005.000) 08/11 03:39:00 Job executing on host: <128.142.248.195:9618?addrs=128.142.248.195-9618+[2001-1458-301-73--100-c2]-9618&alias=b7g23p0315.cern.ch&noUDP&sock=startd_66665_3938>
+...
+040 (8414414.005.000) 08/15 03:15:04 Started transferring output files
+...
+040 (8414414.005.000) 08/15 03:15:04 Finished transferring output files
+...
+004 (8414414.005.000) 08/15 03:15:04 Job was evicted.
+	(0) CPU times
+		Usr 3 22:52:25, Sys 0 00:43:28  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	564983  -  Run Bytes Sent By Job
+	1379  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :     1.00       16        16 
+	   Disk (KB)            :   583         200   3136748 
+	   Memory (MB)          :    74       32000     32000 
+...
+009 (8414414.005.000) 08/15 03:15:04 Job was aborted.
+	via condor_rm (by user malvesga)
+...

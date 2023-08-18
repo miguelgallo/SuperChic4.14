@@ -1,0 +1,1197 @@
+option: SCv4_GamGamMuMu-el_13TeV_pt0.DAT
+/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin
+/eos/home-m/malvesga/SWAN_projects/pylhe
+/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin
+/pool/condor/dir_798
+condor_exec.exe
+_condor_stderr
+_condor_stdout
+malvesga.cc
+srv
+tmp
+var
+MANPATH=/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin/man:/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin/share/man:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/share/man:/cvmfs/sft.cern.ch/lcg/releases/binutils/2.30-e5b21/x86_64-centos7/share/man:/cvmfs/cms.cern.ch/share/man:/cvmfs/cms.cern.ch/share/man:/opt/glite/share/man:/cvmfs/cms.cern.ch/share/man::/opt/puppetlabs/puppet/share/man::
+_CONDOR_JOB_PIDS=
+CUBACORES=8
+XDG_SESSION_ID=c40110
+HOSTNAME=b7g18p5935.cern.ch
+GUESTFISH_INIT=\e[1;34m
+VIRTUALENVWRAPPER_SCRIPT=/usr/bin/virtualenvwrapper.sh
+SELINUX_ROLE_REQUESTED=
+VO_VO_L3_CERN_CH_SW_DIR=/afs/cern.ch/l3
+VO_ALICE_SW_DIR=/afs/cern.ch/project/gd/apps/alice
+GRID_ENV_LOCATION=/usr/libexec
+TERM=xterm
+SHELL=/bin/bash
+HISTSIZE=1000
+SSH_CLIENT=2a01:cb15:447:800:942b:5073:7ce9:c891 58606 22
+TMPDIR=/pool/condor/dir_798/tmp
+VO_OPS_DEFAULT_SE=srm-public.cern.ch
+CONDA_SHLVL=0
+OPENBLAS_NUM_THREADS=8
+SELINUX_USE_CURRENT_RANGE=
+CVSROOT=:gserver:cmssw.cvs.cern.ch:/local/reps/CMSSW
+_CONDOR_SCRATCH_DIR=/pool/condor/dir_798
+VO_NA48_SW_DIR=/afs/cern.ch/project/gd/apps/na48
+QTDIR=/usr/lib64/qt-3.3
+QTINC=/usr/lib64/qt-3.3/include
+SCRAM_ARCH=slc7_amd64_gcc10
+VO_VO_OPAL_CERN_CH_DEFAULT_SE=srm-public.cern.ch
+SSH_TTY=/dev/pts/72
+GRIDMAPDIR=/etc/grid-security/gridmapdir
+STAGE_HOST=castorcms
+VO_VO_ALEPH_CERN_CH_SW_DIR=/afs/cern.ch/aleph
+QT_GRAPHICSSYSTEM_CHECKED=1
+USER=malvesga
+_CHIRP_DELAYED_UPDATE_PREFIX=Chirp*
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:
+TEMP=/tmp
+VO_DTEAM_SW_DIR=/afs/cern.ch/project/gd/apps/dteam
+VO_CMS_SW_DIR=/cvmfs/cms.cern.ch
+VO_VO_ALEPH_CERN_CH_DEFAULT_SE=srm-public.cern.ch
+LCG_LOCATION=/usr
+JULIA_NUM_THREADS=8
+BATCH_SYSTEM=HTCondor
+VO_VO_OPAL_CERN_CH_SW_DIR=/afs/cern.ch/opal
+SSH_AUTH_SOCK=/tmp/ssh-CRMPnVvuVA/agent.13801
+_CONDOR_CHIRP_CONFIG=/pool/condor/dir_798/.chirp.config
+VO_ILC_DEFAULT_SE=srm-public.cern.ch
+VO_LHCB_DEFAULT_SE=srm-lhcb.cern.ch
+CASTOR_HOME=/castor/cern.ch/user/m/malvesga
+VO_OPS_SW_DIR=/afs/cern.ch/project/gd/apps/ops
+VO_GEANT4_DEFAULT_SE=lxdpm101.cern.ch
+VO_ATLAS_DEFAULT_SE=srm-atlas.cern.ch
+SITECONFIG_PATH=/cvmfs/cms.cern.ch/SITECONF/local
+GUESTFISH_PS1=\[\e[1;32m\]><fs>\[\e[0;31m\] 
+_CONDOR_ANCESTOR_5549=798:1690416835:3063665406
+ATLAS_CGROUPS_BASE=/cgroup/memory
+VO_UNOSAT_DEFAULT_SE=srm-public.cern.ch
+MAIL=/var/spool/mail/malvesga
+TF_NUM_THREADS=8
+PATH=/afs/cern.ch/user/m/malvesga/Generator/LHAPDF-6.2.3/bin:/afs/cern.ch/user/m/malvesga/Generator/LHAPDF-6.2.3/bin:/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin/bin:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin:/cvmfs/sft.cern.ch/lcg/releases/binutils/2.30-e5b21/x86_64-centos7/bin:/afs/cern.ch/cms/caf/scripts:/cvmfs/cms.cern.ch/common:/afs/cern.ch/cms/caf/scripts:/cvmfs/cms.cern.ch/common:/afs/cern.ch/cms/caf/scripts:/cvmfs/cms.cern.ch/common:/usr/sue/bin:/usr/lib64/qt-3.3/bin:/usr/condabin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/opt/puppetlabs/bin:/afs/cern.ch/user/m/malvesga/bin:/opt/puppetlabs/bin
+_CONDOR_ANCESTOR_4873=5549:1681687902:2569403114
+_CONDOR_BIN=/usr/bin
+CMS_PATH=/cvmfs/cms.cern.ch
+MKL_NUM_THREADS=8
+VO_DTEAM_DEFAULT_SE=srm-public.cern.ch
+VO_CMS_DEFAULT_SE=srm-cms.cern.ch
+PWD=/pool/condor/dir_798
+_CONDOR_ANCESTOR_798=21831:1690416836:549699091
+NUMEXPR_NUM_THREADS=8
+EDITOR=/bin/nano -w
+JOBFEATURES=/tmp/mjf-malvesga/jobfeatures-bigbird13.cern.ch_8382888.2_1690416748
+VO_VO_DELPHI_CERN_CH_SW_DIR=/afs/cern.ch/delphi
+LANG=en_US.UTF-8
+_CONDOR_WRAPPER_ERROR_FILE=/pool/condor/dir_798/.job_wrapper_failure
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+LOADEDMODULES=
+GUESTFISH_OUTPUT=\e[0m
+QT_GRAPHICSSYSTEM=native
+KDEDIRS=/usr
+_CONDOR_SLOT=slot1_2
+SELINUX_LEVEL_REQUESTED=
+MYPROXY_SERVER=myproxy.cern.ch
+EOS_MGM_URL=root://eoscms.cern.ch
+HISTCONTROL=ignoredups
+GOMAXPROCS=8
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+KRB5CCNAME=FILE:/pool/condor/dir_798/malvesga.cc
+VO_LHCB_SW_DIR=/cvmfs/lhcb.cern.ch
+GLEXEC_LOCATION=/usr
+TEXINPUTS=:/cvmfs/cms.cern.ch/latex/styles
+VO_VO_L3_CERN_CH_DEFAULT_SE=srm-public.cern.ch
+VO_ALICE_DEFAULT_SE=srm-alice.cern.ch
+GLITE_LOCATION_VAR=/var
+HOME=/afs/cern.ch/user/m/malvesga
+SHLVL=2
+MACHINEFEATURES=/etc/machinefeatures
+_CONDOR_PID_NS_INIT_STATUS_FILENAME=/pool/condor/dir_798/.condor_pid_ns_status
+_CONDOR_MACHINE_AD=/pool/condor/dir_798/.machine.ad
+GRID_VO_ENV_SET=true
+_VIRTUALENVWRAPPER_API= mkvirtualenv rmvirtualenv lsvirtualenv showvirtualenv workon add2virtualenv cdsitepackages cdvirtualenv lssitepackages toggleglobalsitepackages cpvirtualenv setvirtualenvproject mkproject cdproject mktmpenv wipeenv allvirtualenv mkvirtualenv rmvirtualenv lsvirtualenv showvirtualenv workon add2virtualenv cdsitepackages cdvirtualenv lssitepackages toggleglobalsitepackages cpvirtualenv setvirtualenvproject mkproject cdproject mktmpenv wipeenv allvirtualenv
+VO_VO_DELPHI_CERN_CH_DEFAULT_SE=srm-public.cern.ch
+GLITE_ENV_SET=TRUE
+VO_ILC_SW_DIR=/cvmfs/ilc.desy.de
+TMP=/tmp
+LCG_GFAL_INFOSYS=lcg-bdii.cern.ch:2170
+LOGNAME=malvesga
+CVS_RSH=ssh
+QTLIB=/usr/lib64/qt-3.3/lib
+VO_UNOSAT_SW_DIR=/afs/cern.ch/project/gd/apps/unosat
+SSH_CONNECTION=2a01:cb15:447:800:942b:5073:7ce9:c891 58606 2001:1458:d00:62::100:446 22
+XDG_DATA_DIRS=/afs/cern.ch/user/m/malvesga/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+MODULESHOME=/usr/share/Modules
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+OMP_NUM_THREADS=8
+VO_NA48_DEFAULT_SE=srm-public.cern.ch
+_CONDOR_JOB_AD=/pool/condor/dir_798/.job.ad
+VO_GEANT4_SW_DIR=/afs/cern.ch/project/gd/apps/geant4
+VO_ATLAS_SW_DIR=/cvmfs/atlas.cern.ch/repo/sw
+XDG_RUNTIME_DIR=/run/user/109700
+DISPLAY=localhost:27.0
+GLITE_LOCATION=/usr
+OMP_THREAD_LIMIT=8
+QT_PLUGIN_PATH=/usr/lib64/kde4/plugins:/usr/lib/kde4/plugins
+SITE_NAME=CERN-PROD
+_CONDOR_JOB_IWD=/pool/condor/dir_798
+GUESTFISH_RESTORE=\e[0m
+SRM_PATH=/opt/d-cache/srm
+TF_LOOP_PARALLEL_ITERATIONS=8
+BASH_FUNC_cmsrel()=() {  scramv1 project CMSSW $@
+}
+BASH_FUNC_cmsenv()=() {  eval `scramv1 runtime -sh`
+}
+HOSTTYPE=x86_64-linux
+VENDOR=unknown
+OSTYPE=linux
+MACHTYPE=x86_64
+GROUP=zh
+HOST=b7g18p5935.cern.ch
+LD_LIBRARY_PATH=/afs/cern.ch/user/m/malvesga/Generator/LHAPDF-6.2.3/install/lib:/afs/cern.ch/user/m/malvesga/Generator/apfel/install/lib:/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin/lib:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/lib:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/lib64:/cvmfs/sft.cern.ch/lcg/releases/binutils/2.30-e5b21/x86_64-centos7/lib
+FC=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gfortran
+CC=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc
+CXX=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++
+COMPILER_PATH=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7
+LCG_VERSION=99
+LHAPDF_DATA_PATH=/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/LHAPDFstuff:/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/LHAPDFstuff:/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin/lib
+PYTHONPATH=/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin/lib:/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin/lib/python2.7/site-packages
+CMAKE_PREFIX_PATH=/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin
+CPLUS_INCLUDE_PATH=/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin/include
+C_INCLUDE_PATH=/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin/include
+BLAS_LIBS=
+LAPACK_LIBS=
+PKG_CONFIG_PATH=/afs/cern.ch/user/m/malvesga/Generator/superchic4.14/bin/lib/pkgconfig
+Running...
+./superchic
+LHAPDF 6.2.3 loading /afs/cern.ch/user/m/malvesga/Generator/superchic4.14/LHAPDFstuff/MSHT20lo_as130/MSHT20lo_as130_0000.dat
+MSHT20lo_as130 PDF set, member #0, version 4
+ ***********************************************
+ **************  Superchic v4.14 ***************
+ ***********************************************
+ *   v4.14                     DATE  27/06/22  *
+ *                                             *
+ * Author: Lucian Harland-Lang                 *
+ * (lucian.harland-lang@physics.ox.ac.uk)      *
+ *                                             *
+ * For details see                             *
+ *                                             *
+ * arXiv 2201.08403 (WW updates)               *
+ * arXiv 2007.12704 (v4 updates)               *
+ * arXiv 1812.04886 (SUSY)                     *
+ * arXiv 1810.06567                            *
+ * arXiv 1508.02718                            *
+ * arXiv 1405.0018 (review)                    *
+ * arXiv 1005.0695 (quarkonia and diphoton)    *
+ * arXiv 1011.0680 (quarkonia)                 *
+ * arXiv 1105.1626 (meson pairs)               *
+ * arXiv 1302.2004 (meson pairs - eta/eta')    *
+ * arXiv 1306.6661 (Skewed PDF)                *
+ * arXiv 1306.2149 (Skewed PDF)                *
+ *                                             *
+ *  Available at :                             *
+ *  http:://projects.hepforge.org/superchic    *
+ *                                             *
+ ***********************************************
+ 
+ **********************************************************                                                            **************
+ * gamma gamma --> mu+ mu- production (prot beam)
+ **********************************************************                                                            **************
+ 
+ ********************  Input parameters *******************                                                            **************
+ *              13000.0000         :  CMS collision energy (GeV)
+ *                       1         :  Model of soft survival
+ *                    in13         :  input file
+ *          MSHT20lo_as130         :  PDF set
+ *                       0         :  PDF member
+ *                      57         :  Process number
+ *SCv4_GamGamMuMu-el_13TeV         :  Output file
+ *                       T         :  Include soft survival effects
+ **********************************************************                                                            **************
+ *                      el         : Dissociation flag
+ **********************************************************                                                            **************
+ 
+ ********************* Integration parameters  ******************                                                      **************
+ *                   10000         :  Preconditioning calls
+ *                      10         :  Preconditioning iterations
+ *                  1.0000         :  Percentage accuracy
+ *                   10000         :  Calls in first main iteration
+ *                   10000         :  Increase calls per iteration
+ *                    1000         :  Maximum number of iterations
+ *                     177         :  Random number seed
+ **********************************************************                                                            **************
+ *                      16         : Survival factor integration par.
+ **********************************************************                                                            **************
+ 
+ ********************* Unweighted Events  *****************                                                            **************
+ *                       T         :  Generate unweighted events
+ *                   50000         :  Number of events
+ *                     lhe         : Record format
+ **********************************************************                                                            **************
+ 
+ ********************* General Cuts ***********************                                                            **************
+ *                -10.0000         :  Minimum object rapidity
+ *                 10.0000         :  Maximum object rapidity
+ *                  2.0000         :  Minimum object mass
+ *               5000.0000         :  Maximum object mass
+ *                       T         :  Include further cuts
+ *                       T         :  Include spin correlations
+ **********************************************************                                                            **************
+ 
+ ***************** 2-body decay cuts **********************                                                            **************
+ *                  0.0000         :  pT(a) min
+ *                  0.0000         :  pT(b) min
+ *                 -2.5000         :  eta(a) min
+ *                  2.5000         :  eta(a) max
+ *                 -2.5000         :  eta(b) min
+ *                  2.5000         :  eta(b) max
+ **********************************************************                                                            **************
+ 
+ 
+ **************************************************************                                                        **************
+                 Vegas: initialisation run                
+                 Note : outputs *bare* cross section only 
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  593.892     +/-   81.8360             *
+ *      accum. integral =  593.892     +/-   81.8360             *
+ *            precision =  13.7796     %                         *
+ *           max weight =  0.00000                               *
+ *                                                               *
+ ******************* chi**2/iteration = 0.000    *****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  578.906     +/-   15.0399             *
+ *      accum. integral =  579.421     +/-   14.9720             *
+ *            precision =  2.58397     %                         *
+ *           max weight =  0.00000                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.3318E-01*****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  590.879     +/-   9.81346             *
+ *      accum. integral =  587.472     +/-   8.18494             *
+ *            precision =  1.39325     %                         *
+ *           max weight =  0.00000                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.2212    *****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  611.691     +/-   17.2903             *
+ *      accum. integral =  592.200     +/-   7.41799             *
+ *            precision =  1.25262     %                         *
+ *           max weight =  0.00000                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.7025    *****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  600.539     +/-   14.2557             *
+ *      accum. integral =  594.008     +/-   6.57947             *
+ *            precision =  1.10764     %                         *
+ *           max weight =  0.00000                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.5928    *****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  590.497     +/-   9.26319             *
+ *      accum. integral =  592.843     +/-   5.37135             *
+ *            precision = 0.906032     %                         *
+ *           max weight =  0.00000                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.4944    *****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  589.979     +/-   7.81773             *
+ *      accum. integral =  591.934     +/-   4.43307             *
+ *            precision = 0.748913     %                         *
+ *           max weight =  0.00000                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.4280    *****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  616.269     +/-   17.9175             *
+ *      accum. integral =  593.439     +/-   4.31440             *
+ *            precision = 0.727016     %                         *
+ *           max weight =  0.00000                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.6270    *****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  584.258     +/-   12.5536             *
+ *      accum. integral =  592.505     +/-   4.07969             *
+ *            precision = 0.688550     %                         *
+ *           max weight =  0.00000                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.6090    *****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  592.914     +/-   9.16472             *
+ *      accum. integral =  592.572     +/-   3.72808             *
+ *            precision = 0.629135     %                         *
+ *           max weight =  0.00000                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.5420    *****************
+ 
+ **************************************************************                                                        **************
+                 Vegas : main run                
+ **************************************************************                                                        **************
+ 
+ **************************************************************                                                        **************
+ 
+ Cut Efficiency =  67.29    %
+ 
+ => multiply NCALL by    1
+ 
+ **************************************************************                                                        **************
+ 
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  573.373     +/-   10.6300             *
+ *      accum. integral =  573.373     +/-   10.6300             *
+ *            precision =  1.85394     %                         *
+ *           max weight =  57984.0                               *
+ *                                                               *
+ ******************* chi**2/iteration = 0.000    *****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    16384   calls   *************************
+ *                                                               *
+ *             integral =  572.464     +/-   6.98280             *
+ *      accum. integral =  572.738     +/-   5.83806             *
+ *            precision =  1.01932     %                         *
+ *           max weight =  57984.0                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.5115E-02*****************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    28672   calls   *************************
+ *                                                               *
+ *             integral =  588.501     +/-   6.11036             *
+ *      accum. integral =  580.472     +/-   4.20477             *
+ *            precision = 0.724371     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.758    *****************
+ 
+ **************************************************************                                                        **************
+ Generating unweighted events
+ **************************************************************                                                        **************
+ 
+
+
+ ******************* Integration by Vegas ************************
+ ********************     8192   calls   *************************
+ *                                                               *
+ *             integral =  568.479     +/-   9.00687             *
+ *      accum. integral =  578.385     +/-   3.80551             *
+ *            precision = 0.657955     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.657    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =      70    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    16384   calls   *************************
+ *                                                               *
+ *             integral =  587.188     +/-   6.85806             *
+ *      accum. integral =  580.520     +/-   3.32521             *
+ *            precision = 0.572798     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.555    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =     213    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    28672   calls   *************************
+ *                                                               *
+ *             integral =  583.218     +/-   4.61511             *
+ *      accum. integral =  581.453     +/-   2.69366             *
+ *            precision = 0.463264     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.286    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =     408    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    31250   calls   *************************
+ *                                                               *
+ *             integral =  581.738     +/-   4.03496             *
+ *      accum. integral =  581.541     +/-   2.23851             *
+ *            precision = 0.384928     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.071    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =     683    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    46875   calls   *************************
+ *                                                               *
+ *             integral =  583.020     +/-   3.27165             *
+ *      accum. integral =  582.017     +/-   1.84517             *
+ *            precision = 0.317031     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9363    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    1007    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    46875   calls   *************************
+ *                                                               *
+ *             integral =  584.516     +/-   3.51784             *
+ *      accum. integral =  582.563     +/-   1.63264             *
+ *            precision = 0.280251     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.8678    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    1380    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    62500   calls   *************************
+ *                                                               *
+ *             integral =  582.933     +/-   3.25035             *
+ *      accum. integral =  582.638     +/-   1.45827             *
+ *            precision = 0.250287     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.7718    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    1825    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    78125   calls   *************************
+ *                                                               *
+ *             integral =  582.861     +/-   2.65585             *
+ *      accum. integral =  582.690     +/-   1.27755             *
+ *            precision = 0.219250     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.6947    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    2352    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    78125   calls   *************************
+ *                                                               *
+ *             integral =  582.148     +/-   2.77694             *
+ *      accum. integral =  582.595     +/-   1.16037             *
+ *            precision = 0.199172     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.6342    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    2940    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    93312   calls   *************************
+ *                                                               *
+ *             integral =  581.323     +/-   2.34433             *
+ *      accum. integral =  582.344     +/-   1.03986             *
+ *            precision = 0.178564     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.6010    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    3556    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    93312   calls   *************************
+ *                                                               *
+ *             integral =  584.721     +/-   2.25982             *
+ *      accum. integral =  582.764     +/-  0.944008             *
+ *            precision = 0.161988     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.6252    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    4300    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    93312   calls   *************************
+ *                                                               *
+ *             integral =  584.492     +/-   2.47864             *
+ *      accum. integral =  582.985     +/-  0.881892             *
+ *            precision = 0.151272     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.6107    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    5065    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************    93312   calls   *************************
+ *                                                               *
+ *             integral =  582.894     +/-   2.28304             *
+ *      accum. integral =  582.973     +/-  0.822510             *
+ *            precision = 0.141089     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.5699    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    5942    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   139968   calls   *************************
+ *                                                               *
+ *             integral =  582.585     +/-   1.75496             *
+ *      accum. integral =  582.903     +/-  0.744604             *
+ *            precision = 0.127741     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.5367    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    6798    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   139968   calls   *************************
+ *                                                               *
+ *             integral =  578.996     +/-   1.81509             *
+ *      accum. integral =  582.345     +/-  0.689161             *
+ *            precision = 0.118342     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.7369    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    7768    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   139968   calls   *************************
+ *                                                               *
+ *             integral =  580.749     +/-   1.81766             *
+ *      accum. integral =  582.145     +/-  0.644454             *
+ *            precision = 0.110703     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.7335    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    8823    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   139968   calls   *************************
+ *                                                               *
+ *             integral =  577.534     +/-   1.83109             *
+ *      accum. integral =  581.642     +/-  0.608145             *
+ *            precision = 0.104557     %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9890    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =    9846    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   139968   calls   *************************
+ *                                                               *
+ *             integral =  579.781     +/-   1.82311             *
+ *      accum. integral =  581.457     +/-  0.576970             *
+ *            precision = 0.992283E-01 %                         *
+ *           max weight =  91732.3                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9864    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   10996    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   186624   calls   *************************
+ *                                                               *
+ *             integral =  579.939     +/-   1.84055             *
+ *      accum. integral =  581.322     +/-  0.550603             *
+ *            precision = 0.947157E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9690    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   12188    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   186624   calls   *************************
+ *                                                               *
+ *             integral =  582.368     +/-   1.73122             *
+ *      accum. integral =  581.418     +/-  0.524648             *
+ *            precision = 0.902360E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9399    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   13057    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   186624   calls   *************************
+ *                                                               *
+ *             integral =  580.376     +/-   1.63181             *
+ *      accum. integral =  581.321     +/-  0.499502             *
+ *            precision = 0.859254E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9152    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   14045    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   186624   calls   *************************
+ *                                                               *
+ *             integral =  577.459     +/-   1.59416             *
+ *      accum. integral =  580.979     +/-  0.476799             *
+ *            precision = 0.820682E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.098    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   14993    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   186624   calls   *************************
+ *                                                               *
+ *             integral =  584.327     +/-   1.70125             *
+ *      accum. integral =  581.226     +/-  0.459017             *
+ *            precision = 0.789740E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.198    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   16006    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  581.436     +/-   1.45862             *
+ *      accum. integral =  581.245     +/-  0.437835             *
+ *            precision = 0.753271E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.153    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   17093    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  581.255     +/-   1.42848             *
+ *      accum. integral =  581.246     +/-  0.418608             *
+ *            precision = 0.720191E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.110    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   18228    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  579.563     +/-   1.44519             *
+ *      accum. integral =  581.116     +/-  0.402126             *
+ *            precision = 0.691989E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.115    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   19397    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  579.460     +/-   1.43148             *
+ *      accum. integral =  580.996     +/-  0.387183             *
+ *            precision = 0.666413E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.120    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   20615    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  579.176     +/-   1.44471             *
+ *      accum. integral =  580.874     +/-  0.374026             *
+ *            precision = 0.643902E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.132    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   21915    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  581.162     +/-   1.47894             *
+ *      accum. integral =  580.892     +/-  0.362606             *
+ *            precision = 0.624222E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.096    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   23275    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  581.823     +/-   1.46273             *
+ *      accum. integral =  580.946     +/-  0.351938             *
+ *            precision = 0.605802E-01 %                         *
+ *           max weight =  127633.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.074    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   24593    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  579.572     +/-   1.50226             *
+ *      accum. integral =  580.875     +/-  0.342679             *
+ *            precision = 0.589937E-01 %                         *
+ *           max weight =  141997.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.065    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   26014    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  581.144     +/-   1.50148             *
+ *      accum. integral =  580.888     +/-  0.334086             *
+ *            precision = 0.575130E-01 %                         *
+ *           max weight =  141997.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.035    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   27359    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  582.322     +/-   1.47177             *
+ *      accum. integral =  580.959     +/-  0.325781             *
+ *            precision = 0.560765E-01 %                         *
+ *           max weight =  141997.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.031    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   28691    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  580.708     +/-   1.42869             *
+ *      accum. integral =  580.946     +/-  0.317632             *
+ *            precision = 0.546749E-01 %                         *
+ *           max weight =  141997.                               *
+ *                                                               *
+ ******************* chi**2/iteration = 1.003    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   30091    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   235298   calls   *************************
+ *                                                               *
+ *             integral =  581.036     +/-   1.43399             *
+ *      accum. integral =  580.950     +/-  0.310114             *
+ *            precision = 0.533805E-01 %                         *
+ *           max weight =  141997.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9762    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   31497    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  581.755     +/-   1.19906             *
+ *      accum. integral =  581.001     +/-  0.300221             *
+ *            precision = 0.516730E-01 %                         *
+ *           max weight =  141997.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9616    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   32976    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  582.080     +/-   1.15846             *
+ *      accum. integral =  581.069     +/-  0.290599             *
+ *            precision = 0.500112E-01 %                         *
+ *           max weight =  141997.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9578    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   34462    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  579.791     +/-   1.21493             *
+ *      accum. integral =  581.000     +/-  0.282645             *
+ *            precision = 0.486480E-01 %                         *
+ *           max weight =  141997.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9600    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   36024    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  582.773     +/-   1.21191             *
+ *      accum. integral =  581.092     +/-  0.275234             *
+ *            precision = 0.473650E-01 %                         *
+ *           max weight =  141997.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9862    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   37563    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  580.425     +/-   1.25811             *
+ *      accum. integral =  581.062     +/-  0.268882             *
+ *            precision = 0.462742E-01 %                         *
+ *           max weight =  161609.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9692    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   39145    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  582.544     +/-   1.27085             *
+ *      accum. integral =  581.126     +/-  0.263045             *
+ *            precision = 0.452647E-01 %                         *
+ *           max weight =  161609.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9769    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   40627    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  581.024     +/-   1.21738             *
+ *      accum. integral =  581.121     +/-  0.257111             *
+ *            precision = 0.442440E-01 %                         *
+ *           max weight =  161609.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9549    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   42120    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  581.165     +/-   1.21074             *
+ *      accum. integral =  581.123     +/-  0.251502             *
+ *            precision = 0.432786E-01 %                         *
+ *           max weight =  161609.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9337    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   43725    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  583.548     +/-   1.40092             *
+ *      accum. integral =  581.199     +/-  0.247534             *
+ *            precision = 0.425902E-01 %                         *
+ *           max weight =  203285.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9768    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   45346    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  580.518     +/-   1.25886             *
+ *      accum. integral =  581.174     +/-  0.242887             *
+ *            precision = 0.417925E-01 %                         *
+ *           max weight =  203285.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9621    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   46651    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  579.873     +/-   1.17538             *
+ *      accum. integral =  581.121     +/-  0.237872             *
+ *            precision = 0.409333E-01 %                         *
+ *           max weight =  203285.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9665    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   47938    total =   50000
+ **************************************************************                                                        **************
+
+
+Thanks for using LHAPDF 6.2.3. Please make sure to cite the paper:
+  Eur.Phys.J. C75 (2015) 3, 132  (http://arxiv.org/abs/1412.7420)
+ ******************* Integration by Vegas ************************
+ ********************   352947   calls   *************************
+ *                                                               *
+ *             integral =  580.477     +/-   1.19608             *
+ *      accum. integral =  581.096     +/-  0.233307             *
+ *            precision = 0.401494E-01 %                         *
+ *           max weight =  203285.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9525    *****************
+ 
+ **************************************************************                                                        **************
+  generated events so far =   49311    total =   50000
+ **************************************************************                                                        **************
+
+
+ ******************* Integration by Vegas ************************
+ ********************   470596   calls   *************************
+ *                                                               *
+ *             integral =  581.469     +/-   1.02919             *
+ *      accum. integral =  581.115     +/-  0.227529             *
+ *            precision = 0.391539E-01 %                         *
+ *           max weight =  203285.                               *
+ *                                                               *
+ ******************* chi**2/iteration =0.9359    *****************
+ 
+ ***************************************
+ mx
+ ***************************************
+ inside,under,over :  10614******  1491
+ ***************************************
+                                   ----+----i----+----i----+----i
+     188.810       0.192930E-02   i                             *i
+     244.754       0.682985E-03   i          *                   i
+     300.698       0.254497E-03   i   *                          i
+     356.642       0.152486E-03   i  *                           i
+     412.587       0.857680E-04   i *                            i
+     468.531       0.530083E-04   i*                             i
+     524.475       0.198960E-04   i*                             i
+     580.419       0.133804E-04   i*                             i
+     636.363       0.873824E-05   i*                             i
+     692.307       0.719959E-05   i*                             i
+     748.251       0.507095E-05   i*                             i
+     804.196       0.348337E-05   i*                             i
+     860.140       0.256866E-05   i*                             i
+     916.084       0.178158E-05   i*                             i
+     972.028       0.127756E-05   i*                             i
+                                   ----+----i----+----i----+----i
+ 
+ ***************************************
+ yx
+ ***************************************
+ inside,under,over : ******     0     0
+ ***************************************
+                                   ----+----i----+----i----+----i
+    -9.66667        0.00000       i*                             i
+    -9.00000        0.00000       i*                             i
+    -8.33333        0.00000       i*                             i
+    -7.66667        0.00000       i*                             i
+    -7.00000        0.00000       i*                             i
+    -6.33333        0.00000       i*                             i
+    -5.66667        0.00000       i*                             i
+    -5.00000        0.00000       i*                             i
+    -4.33333        0.00000       i*                             i
+    -3.66667        0.00000       i*                             i
+    -3.00000        0.00000       i*                             i
+    -2.33333        200.069       i *                            i
+    -1.66667        1099.27       i        *                     i
+    -1.00000        2382.92       i                   *          i
+   -0.333333        3728.30       i                             *i
+    0.333333        3738.67       i                             *i
+     1.00000        2377.69       i                   *          i
+     1.66667        1085.80       i        *                     i
+     2.33333        204.327       i *                            i
+     3.00000        0.00000       i*                             i
+     3.66667        0.00000       i*                             i
+     4.33333        0.00000       i*                             i
+     5.00000        0.00000       i*                             i
+     5.66667        0.00000       i*                             i
+     6.33333        0.00000       i*                             i
+     7.00000        0.00000       i*                             i
+     7.66667        0.00000       i*                             i
+     8.33333        0.00000       i*                             i
+     9.00000        0.00000       i*                             i
+     9.66667        0.00000       i*                             i
+                                   ----+----i----+----i----+----i
+ 
+ Cross section =     581.1147     +/-   0.2275292     pb
+ 
+ time elapsed =    19162.270291000001       s

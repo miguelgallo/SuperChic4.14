@@ -1,0 +1,42 @@
+executable = sub_condor_superchic.csh
+
+output     = output/output_superchic_$(ClusterId)_$(ProcId).out
+error      = output/output_superchic_$(ClusterId)_$(ProcId).err
+log        = output/output_superchic_$(ClusterId)_$(ProcId).log
+
+getenv     = True
+
+#environment = "X509_USER_PROXY=$ENV(HOME)/x509up_u61469"
+
+requirements = (OpSysAndVer =?= "CentOS7")
+
+# request_memory = 16000
+# request_memory = 32000
+# request_memory = 48000
+request_memory = 54000
+# request_memory = 64000
+
+# RequestCpus = 1
+
+# +JobFlavour = "longlunch"
+# +JobFlavour = "workday"
+# +JobFlavour = "tomorrow"
+#+JobFlavour = "testmatch"
++JobFlavour = "nextweek"
+
+should_transfer_files = IF_NEEDED
+when_to_transfer_output = ON_EXIT
+transfer_output_files = ""
+
+# queue
+queue arguments from (
+    SCv4_GamGamEE-el_13TeV_pt40.DAT
+#    SCv4_GamGamEE-sd_13TeV_pt40.DAT
+#    SCv4_GamGamEE-dd_13TeV_pt40.DAT
+#    SCv4_GamGamMuMu-el_13TeV_pt40.DAT
+#    SCv4_GamGamMuMu-sd_13TeV_pt40.DAT
+#    SCv4_GamGamMuMu-dd_13TeV_pt40.DAT
+#    SCv4_GamGamWW-el_13TeV_pt0_2.DAT
+#    SCv4_GamGamWW-sd_13TeV_pt0_2.DAT
+#    SCv4_GamGamWW-dd_13TeV_pt0_2.DAT
+)
