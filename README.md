@@ -18,14 +18,14 @@ cd ../..
 wget https://lhapdf.hepforge.org/downloads/?f=LHAPDF-6.2.3.tar.gz -O LHAPDF-6.2.3.tar.gz
 tar xf LHAPDF-6.2.3.tar.gz
 cd LHAPDF-6.2.3/
-./configure --prefix=-path to LHAPDF folder-/install
+./configure --prefix=path to LHAPDF folder/install
 make
 make install
 cd bin/
 chmod +x lhapdf-config
 
 cd ../../apfel
-./configure --prefix=-path to apfel folder-/apfel/install/ --exec-prefix=-path to apfel folder-/apfel/install/
+./configure --prefix=path to apfel folder/apfel/install/ --exec-prefix=path to apfel folder/apfel/install/
 make 
 make install
 
@@ -33,7 +33,7 @@ cd ../superchic4.2/
 
 #edit makefile
 #not edit LHAPDF is different
-APFELLIB = -path to apfel folder-/apfel/install/lib
+APFELLIB = path to apfel folder/apfel/install/lib
 
 make 
 make init
@@ -42,8 +42,8 @@ make superchic
 cd .. 
 
 ## defining paths for bash
-export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:-path to apfel folder-/apfel/install/lib
-export LHAPDF_DATA_PATH=${LHAPDF_DATA_PATH}:-path to superchic folder-/superchic4.2/LHAPDFstuff
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:path to apfel folder/apfel/install/lib
+export LHAPDF_DATA_PATH=${LHAPDF_DATA_PATH}:path to superchic folder/superchic4.2/LHAPDFstuff
 
 cd superchic4.2/bin
 
