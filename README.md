@@ -1,7 +1,7 @@
 # SuperChic4.14
 
 mkdir foo
-
+\n
 cd foo
 
 git clone https://github.com/scarrazza/apfel.git
