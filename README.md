@@ -1,6 +1,7 @@
 # SuperChic4.14
 
-mkdir foo \n
+mkdir foo 
+\n
 cd foo
 
 git clone https://github.com/scarrazza/apfel.git
@@ -10,6 +11,7 @@ tar -xvzf superchic4.2.tar.gz
 cd superchic4.2
 
 mkdir LHAPDFstuff
+\n
 cd LHAPDFstuff
 wget https://superchic.hepforge.org/SF_MSHT20qed_nnlo.tar.gz
 tar -xvzf SF_MSHT20qed_nnlo.tar.gz
